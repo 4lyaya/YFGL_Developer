@@ -44,7 +44,7 @@ function teamApp() {
                     bio: 'Fullstack Developer dengan pengalaman dalam pengembangan web dan aplikasi menggunakan teknologi modern yang efisien dan scalable.',
                     github: 'https://github.com/Yazan969',
                     githubUsername: 'Yazan969',
-                    photo: 'assets/images/aji.jpg',
+                    photo: './assets/images/aji.jpg',
                     technologies: [
                         { name: 'HTML', color: '#E44D26' },
                         { name: 'CSS', color: '#1572B6' },
@@ -72,7 +72,7 @@ function teamApp() {
                     bio: 'Design Artist dan Game Programmer dengan fokus pada visual menarik dan gameplay yang imersif.',
                     github: 'https://github.com/SmileHuman',
                     githubUsername: 'SmileHuman',
-                    photo: 'assets/images/raditya.jpg',
+                    photo: './assets/images/raditya.jpg',
                     technologies: [
                         { name: 'HTML', color: '#E44D26' },
                         { name: 'CSS', color: '#1572B6' },
@@ -92,7 +92,7 @@ function teamApp() {
                     bio: 'Graphic Designer dan 3D Artist yang berfokus pada pembuatan asset visual untuk berbagai kebutuhan kreatif.',
                     github: 'https://github.com/ry71kmr54-lgtm',
                     githubUsername: 'ry71kmr54-lgtm',
-                    photo: 'assets/images/rasya.jpg',
+                    photo: './assets/images/rasya.jpg',
                     technologies: [
                         { name: 'HTML', color: '#E44D26' },
                         { name: 'CSS', color: '#1572B6' },
@@ -112,7 +112,7 @@ function teamApp() {
                     bio: 'Game Designer dan 3D Artist yang menguasai proses kreatif dari konsep hingga implementasi.',
                     github: 'https://github.com/Liu-Kindy',
                     githubUsername: 'Liu-Kindy',
-                    photo: 'assets/images/uno.jpg',
+                    photo: './assets/images/uno.jpg',
                     technologies: [
                         { name: 'HTML', color: '#E44D26' },
                         { name: 'CSS', color: '#1572B6' },
